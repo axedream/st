@@ -1,0 +1,34 @@
+.alert {
+    margin-bottom: 0px !important;
+}
+#left {
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.affix {
+    top: 0;
+}
+@media (max-width: 1200px) {
+    .affix {
+        position: static;
+    }
+}
+#button_logout {
+    top: 8px;
+    position: relative;
+    margin-right: 10px;
+}
+.col-xs-12 {
+    padding: 0px;
+    margin: 0px;
+}
+.message_text {
+    background: #ffffff;
+    color: #0c0c0c;
+    font-weight: bold;
+}
+.user_text_ring_close {
+    background: white;
+}
