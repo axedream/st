@@ -20,8 +20,6 @@
         "yiisoft/yii2-swiftmailer": "~2.0.0",
         "kartik-v/yii2-widget-alert": "*",
         "yiisoft/yii2-queue": "^2.0",
-        "sendpulse/rest-api": "^1.0",
-        "sevenfloor/yii2-sendpulse": "*",
         "kartik-v/yii2-widget-select2": "@dev",
         "pa3py6aka/yii2-modal-alert-widget": "^1.2",
         "kartik-v/yii2-checkbox-x": "*",
@@ -30,11 +28,8 @@
         "kartik-v/yii2-slider": "dev-master",
         "kartik-v/yii2-mpdf": "dev-master",
         "dmstr/yii2-adminlte-asset": "^2.1",
-        "google/apiclient": "^2.2",
         "yiisoft/yii2-httpclient": "^2.0",
-        "kartik-v/yii2-field-range": "*",
-        "moonlandsoft/yii2-phpexcel": "*",
-        "roromix/spreadsheetbundle": "^1.0"
+        "kartik-v/yii2-field-range": "*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
